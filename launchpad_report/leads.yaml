@@ -7,6 +7,7 @@ use_auth: True
 teams:
   dpyzhov:
     fuel-python
+    dpyzhov
     alekseyk-ru
     dshulyak
     rustyrobot
@@ -43,6 +44,8 @@ teams:
     ekozhemyakin
     akolesnikov
     fsoppelsa
+    dklepikov
+    sovsianikov
   rvyalov:
     fuel-osci
     sotpuschennikov
@@ -51,6 +54,8 @@ teams:
     r0mikiam
     mrasskazov
     dkaiharodsev
+    heos
+    i-gnatenko-brain
   aurlapova:
     fuel-qa
     apalkina
@@ -69,6 +74,7 @@ teams:
     acharykov
     skulanov
     corepb
+    ibelikov
   dborodaenko:
     dborodaenko
     rmoe
@@ -86,6 +92,7 @@ teams:
     vlos
     amogylchenko
   imarnat:
+    mos-all
     mos-neutron
     mos-keystone
     mos-nova
@@ -132,6 +139,9 @@ teams:
     akurilin
     pkholkin
     ekudryashova
+    vokhrimenko
+    myatsenko
+    vryzhenkin
   eshumakher:
     fuel-partner
     eshumakher
@@ -145,6 +155,8 @@ teams:
     ipovolotskaya
     azemlyanov
     nuritv
+    gilmeir-d
+    tdubyk
   tnapierala:
     tzn
     salmon
@@ -157,11 +169,13 @@ teams:
     omolchanov
     bpiotrowski
     pkaminski
+    romcheg
   external:
     longgeek
     berendt
     jesse-pretorius
     sammiestoel
+    rsff
   other_mirantis:
     zynzel
     vpleshakov
