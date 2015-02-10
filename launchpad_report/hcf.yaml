@@ -9,6 +9,8 @@ cache_dir: cache
 use_auth: True
 teams:
   Fuel:
+    dpyzhov
+    ivankliuk
     fuel-python
     alekseyk-ru
     dshulyak
@@ -34,10 +36,13 @@ teams:
     raytrac3r
     idv1985
     vkuklin
+    dmy-ilyin
     sbogatkin
     xdeller
     andreika-mail
     manashkin
+    dklepikov
+    sovsianikov
     ekozhemyakin
     akolesnikov
     fsoppelsa
@@ -67,6 +72,10 @@ teams:
     nikishov-da
     atarasov
     dtyzhnenko
+    rvyalov
+    dkaiharodsev
+    heos
+    i-gnatenko-brain
   mos-linux:
     mos-linux
     apodrepniy

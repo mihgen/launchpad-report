@@ -145,8 +145,8 @@ class Report(object):
 
     def bug_report(self, project, all=False):
         report = []
-        milestone51 = project.getMilestone(name="6.0")    # 5.1
-        milestone502 = project.getMilestone(name="5.0.3") # 5.0.2
+        milestone51 = project.getMilestone(name="6.1")    # 5.1
+        milestone502 = project.getMilestone(name="6.0.1") # 5.0.2
         if all:
             bugs = project.searchTasks(status=all_bug_statuses)
         else:
