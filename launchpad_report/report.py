@@ -137,7 +137,8 @@ class Report(object):
     def bug_report(self, project, all=False):
         report = []
         if all:
-            bugs_list = [project.searchTasks(status=all_bug_statuses)]
+            bugs_list = [project.searchTasks(status=all_bug_statuses,
+                         created_since='2014-05-01')]
         else:
             print("Using hardcoded 5.1 & 5.0.2 milestones...")
             milestone51 = project.getMilestone(name="5.1")    # 5.1
